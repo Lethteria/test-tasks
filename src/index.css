@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2 {
+  margin-bottom: 20px;
+
+  font-size: 24px;
+  font-weight: 600;
+  color: #01454f;
+}
+
+h5, p {
+  margin-bottom: 10px;
+
+  font-size: 18px;
+  color: #4b4c4c;
+}
+
+section {
+  padding: 30px 0;
+  border-bottom: 1px solid #006876;
+}
+
+section:last-child {
+  border-bottom: none;
+}
