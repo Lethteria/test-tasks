@@ -1,4 +1,5 @@
 # A few test tasks
+![testTasks](https://github.com/Lethteria/test-tasks/assets/25557993/ba31cba0-b28e-46cd-9632-facc9a28707f)
 
 ## Task 1
 
@@ -32,5 +33,3 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
