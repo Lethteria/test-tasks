@@ -27,7 +27,7 @@ Create a calculator. Operations: + - * / DEL CLEAR
 
 ## About project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with React and React custom hooks.
 
 ### Available Scripts
 
