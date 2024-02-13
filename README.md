@@ -1,4 +1,4 @@
-# A few test tasks
+# Some test tasks
 ![testTasks](https://github.com/Lethteria/test-tasks/assets/25557993/ba31cba0-b28e-46cd-9632-facc9a28707f)
 
 ## Task 1
@@ -20,6 +20,10 @@ The user should have an opportunity to enter the N number of different brackets 
 ## Task 4
 
 Create a calculator. Operations: + - * / DEL CLEAR
+
+## View Demo
+
+<a href="https://some-test-tasks.vercel.app">link to Some test tasks</a>
 
 ## About project
 
